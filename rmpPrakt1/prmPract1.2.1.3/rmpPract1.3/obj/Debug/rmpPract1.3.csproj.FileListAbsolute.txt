@@ -1,0 +1,11 @@
+C:\Users\Artem\RiderProjects\prmPract1.2\rmpPract1.3\bin\Debug\rmpPract1._3.exe.config
+C:\Users\Artem\RiderProjects\prmPract1.2\rmpPract1.3\bin\Debug\rmpPract1._3.exe
+C:\Users\Artem\RiderProjects\prmPract1.2\rmpPract1.3\bin\Debug\rmpPract1._3.pdb
+C:\Users\Artem\RiderProjects\prmPract1.2\rmpPract1.3\obj\Debug\rmpPract1.3.csproj.AssemblyReference.cache
+C:\Users\Artem\RiderProjects\prmPract1.2\rmpPract1.3\obj\Debug\rmpPract1.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\RiderProjects\prmPract1.2\rmpPract1.3\obj\Debug\rmpPract1._3.Properties.Resources.resources
+C:\Users\Artem\RiderProjects\prmPract1.2\rmpPract1.3\obj\Debug\rmpPract1.3.csproj.GenerateResource.cache
+C:\Users\Artem\RiderProjects\prmPract1.2\rmpPract1.3\obj\Debug\rmpPract1.3.csproj.CoreCompileInputs.cache
+C:\Users\Artem\RiderProjects\prmPract1.2\rmpPract1.3\obj\Debug\rmpPract1._3.exe
+C:\Users\Artem\RiderProjects\prmPract1.2\rmpPract1.3\obj\Debug\rmpPract1._3.pdb
+C:\Users\Artem\RiderProjects\prmPract1.2\rmpPract1.3\obj\Debug\rmpPract1._3.Form1.resources
